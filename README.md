@@ -10,20 +10,20 @@
 
 ## 👨‍💻 Vision & Purpose
 
-Este repositorio constituye mi **Centro de Operaciones de Seguridad**. Como Ingeniero de Software, mi objetivo es cerrar la brecha entre el desarrollo y la ciberseguridad. Aquí documento investigaciones, exploits y remediaciones de vulnerabilidades en aplicaciones modernas (Next.js, Node.js, APIs REST).
+This repository is my **Security Operations Hub**. As a Software Engineer, my goal is to close the gap between development and cybersecurity. Here, I document vulnerability research, exploit paths, and remediation strategies for modern applications (Next.js, Node.js, and REST APIs).
 
-> **Core Focus:** No solo identificar la vulnerabilidad, sino entender la falla en la arquitectura del software para proponer defensas de nivel de ingeniería.
+> **Core Focus:** Not only identifying vulnerabilities, but understanding architectural failures in software systems to design engineering-grade defenses.
 
 ---
 
 ## 🛠️ Technical Stack & Arsenal
 
-| Domain | Tools & Technologies |
-| :--- | :--- |
-| **Development** | Next.js 15, TypeScript, Firebase, PostgreSQL, Sequelize ORM |
-| **Offensive** | Burp Suite Professional, Kali Linux, Nmap, OWASP ZAP |
-| **Analysis** | Static Analysis (SAST), Dynamic Analysis (DAST), Manual Code Review |
-| **AI-Assisted** | ShellGPT, Custom Pentesting Agents, LangChain Automation |
+| Domain          | Tools & Technologies                                                |
+| :-------------- | :------------------------------------------------------------------ |
+| **Development** | Next.js 15, TypeScript, Firebase, PostgreSQL, Sequelize ORM         |
+| **Offensive**   | Burp Suite Professional, Kali Linux, Nmap, OWASP ZAP                |
+| **Analysis**    | Static Analysis (SAST), Dynamic Analysis (DAST), Manual Code Review |
+| **AI-Assisted** | ShellGPT, Custom Pentesting Agents, LangChain Automation            |
 
 ---
 
@@ -31,46 +31,49 @@ Este repositorio constituye mi **Centro de Operaciones de Seguridad**. Como Inge
 
 ### [01. Vulnerability Writeups](./01-Labs-Writeups)
 
-Análisis técnicos detallados de laboratorios (OWASP Juice Shop, HTB). Cada informe incluye **Prueba de Concepto (PoC)** y **Guía de Remediación**.
+Detailed technical analyses of labs (OWASP Juice Shop, HTB). Each report includes a **Proof of Concept (PoC)** and a **Remediation Guide**.
 
-* **Highlight:** [JSON Parameter Pollution (JPP) in Sequelize APIs](./01-Labs-Writeups/juice-shop/jpp-exploit.md)
+- **Highlight:** [JSON Parameter Pollution (JPP) in Sequelize APIs](./01-Labs-Writeups/juice-shop/jpp-exploit.md)
 
 ### [02. Security Methodologies](./02-Methodologies)
 
-Checklists personalizados para auditorías de AppSec siguiendo el **OWASP ASVS** (Application Security Verification Standard).
+Custom checklists for AppSec assessments aligned with **OWASP ASVS** (Application Security Verification Standard).
 
-### [03. Security Automation & IA](./03-Automation-Scripts)
+### [03. Security Automation & AI](./03-Automation-Scripts)
 
-Scripts en Python/Bash para automatizar el reconocimiento y el triage de vulnerabilidades, integrando modelos de lenguaje (LLMs) en el flujo de trabajo de Kali Linux.
+Python and Bash scripts to automate reconnaissance and vulnerability triage, integrating LLM-based workflows into Kali Linux operations.
 
 ### [04. Real-World Case Studies](./04-Real-World-Projects)
 
-Proyectos de auditoría real, consultoría bajo la marca **OPTIXIUM** y participaciones en programas de Bug Bounty.
+Real audit projects, consulting work under the **OPTIXIUM** brand, and participation in Bug Bounty programs.
 
 ### [05. Professional Growth](./05-Certifications-Courses)
 
-Seguimiento de certificaciones (eJPT, OSCP) y formación continua en seguridad ofensiva.
+Progress tracking for certifications (eJPT, OSCP) and continuous training in offensive security.
 
 ---
 
 ## 🎯 2026 Roadmap
 
-* [ ] **Advanced SSRF:** Dominar técnicas de Blind SSRF y bypass de filtros.
-* [ ] **AI-Security-Agent:** Desarrollar un script que analice respuestas HTTP para detectar fugas de información sensible.
-* [ ] **Cloud Security:** Especialización en ataques y defensas en entornos AWS/Firebase.
-* [ ] **Certification:** Obtener una certificación reconocida en Red Teaming / Pentesting.
+- [ ] **Advanced SSRF:** Master Blind SSRF techniques and filter bypass strategies.
+- [ ] **AI-Security-Agent:** Develop a script that analyzes HTTP responses to detect sensitive information leaks.
+- [ ] **Cloud Security:** Specialize in offensive and defensive techniques for AWS/Firebase environments.
+- [ ] **Certification:** Earn a recognized Red Teaming / Pentesting certification.
 
 ---
 
 ## 📩 Connect & Collaborate
 
-Ubicado en **Sevilla, España**, siempre abierto a discutir sobre arquitectura segura, auditorías de código y las últimas tendencias en amenazas web.
+Based in **Seville, Spain**, and always open to discussions about secure architecture, code audits, and the latest web threat trends.
 
-* **GitHub:** [Tu-Usuario-Aquí](https://github.com/Tu-Usuario)
-* **LinkedIn:** [Tu-Perfil-Aquí]
-* **Brand:** OPTIXIUM
+- **GitHub:** [necho1122](https://github.com/necho1122)
+- **LinkedIn:** [Your-Profile-Here](https://www.linkedin.com/in/nelson-enrique-ubac-jimenez-6b1996118/)
+- **Brand:** OPTIXIUM
 
 ---
 
 > "Hacking is a mindset, not just a set of skills."
+
+---
+
 > "Building secure software is hard. Breaking it is fun. Doing both is Engineering."

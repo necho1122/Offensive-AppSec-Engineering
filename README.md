@@ -67,13 +67,11 @@ Progress tracking for certifications (eJPT, OSCP) and continuous training in off
 Based in **Seville, Spain**, and always open to discussions about secure architecture, code audits, and the latest web threat trends.
 
 - **GitHub:** [necho1122](https://github.com/necho1122)
-- **LinkedIn:** [Your-Profile-Here](https://www.linkedin.com/in/nelson-enrique-ubac-jimenez-6b1996118/)
-- **Brand:** OPTIXIUM
+- **LinkedIn:** [Nelson Ubac](https://www.linkedin.com/in/nelson-enrique-ubac-jimenez-6b1996118/)
+- **Brand:** [OPTIXIUM](https://optixium.vercel.app/)
 
 ---
 
 > "Hacking is a mindset, not just a set of skills."
-
----
 
 > "Building secure software is hard. Breaking it is fun. Doing both is Engineering."
